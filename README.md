@@ -1,1 +1,3 @@
-Derivitive version of [Peter Han](https://raw.githubusercontent.com/peterhaneve/)'s Airlock Door mod for Oxygen Not Included.  Now with Insulation.
+Derivitive version of [Peter Han](https://raw.githubusercontent.com/peterhaneve/)'s Airlock Door mod for Oxygen Not Included. Now with Insulation.
+
+Only the outer tiles are insulated, the middle tiles do not receive the insulated property, and will heat up rapidly if duplicants carry hot materials through the airlock.  Additionally, the building temperature is determined from the middle bottom tile (where the power enters), so extreme temperatures on either side will not be reflected in the building temperature.  I recommend building a few insulated tiles out of the same raw mineral you used for the airlock nearby, so you can monitor them for melting point.
